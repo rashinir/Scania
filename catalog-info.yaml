@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Scania
+  annotations:
+    github.com/project-slug: rashinir/Scania
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Rashin
