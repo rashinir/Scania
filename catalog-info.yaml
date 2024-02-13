@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: Scania
   annotations:
-    github.com/project-slug: rashinir/Scania
-    backstage.io/techdocs-ref: value
+    github.com/project-slug: rashinir/Scania 
 spec:
   type: other
   lifecycle: unknown
