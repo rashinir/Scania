@@ -8,3 +8,9 @@ spec:
   type: other
   lifecycle: unknown
   owner: Rashin
+artifacts:
+  - type: docker
+    name: helloworld
+    description: Docker image for the helloworld component
+    reference: helloworld:latest
+    path: ./Dockerfile
