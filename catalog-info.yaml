@@ -1,6 +1,5 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-dockerfile: Dockerfile
 metadata:
   name: Scania
   annotations:
