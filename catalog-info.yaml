@@ -4,6 +4,7 @@ metadata:
   name: Scania
   annotations:
     github.com/project-slug: rashinir/Scania
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
